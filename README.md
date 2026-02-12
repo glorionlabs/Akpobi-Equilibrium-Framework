@@ -1,4 +1,4 @@
-# Akpobi Equilibrium Framework (AEF)
+# Akpobi Equilibrium Framework (AEF): A Unified Theory of Coherent System Homeostasis
 
 **Author:** Felix Akpobi 
 **Category:** Theoretical Classical Physics 
