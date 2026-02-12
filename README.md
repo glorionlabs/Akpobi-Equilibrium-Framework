@@ -8,7 +8,7 @@ Preprint and source files for the Akpobi Equilibrium Framework (AEF), a theoreti
 
 ## Contents
 - **PDF/** – PDF preprint of the framework 
-- **Source/** – Word or LaTeX source files 
+- **Source/** – Word files 
 - **Figures/** – Diagrams, charts, and illustrations 
 
 ## Release v1.0
